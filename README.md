@@ -1,2 +1,2 @@
 # Website
-theme: Slate
+theme: jekyll-theme-slate
