@@ -1,1 +1,2 @@
 # Website
+theme: slate
