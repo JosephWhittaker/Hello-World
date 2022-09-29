@@ -1,2 +1,2 @@
 # Website
-theme: slate
+theme: Slate
