@@ -1,2 +1,2 @@
 # Website
-## welcome to th
+## welcome to the website
