@@ -6,4 +6,3 @@
 ### The rules
 #### Each person starts with 6 cards, and they must arrange them face down in front of them like so. 
 
-![Golf Setup](Untitled drawing.svg)
