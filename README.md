@@ -1,8 +1,8 @@
 
-# How To Play Golf
+# Tips, Strategies, and Trivia about Wii Sports
 
-## A very easy card game to learn or teach and a game that can be played by many players, Golf is fun for anyone who wants to learn how to play!
+## Wii Sports
 
-### The rules
-#### Each person starts with 6 cards, and they must arrange them face down in front of them like so. 
+### Wii Sports is a world-famous video game that is popular in the United States and worldwide. Topping the charts at the fourth bestselling video game of all time with nearly 83 million copies sold it is a game that many have grown up with. 
+
 
