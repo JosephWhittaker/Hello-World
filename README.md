@@ -5,10 +5,6 @@
 
 #### *Wii* Sports is a world-famous video game created by Nintendo that has gained immense popularity and fame in the United States and worldwide. Topping the charts at the fourth bestselling video game of all time with nearly 83 million copies sold according to [wikipedia](https://en.wikipedia.org/wiki/List_of_best-selling_video_games#cite_note-nintendowii-14), it is a game that has become a household name and has shaped the childhoods of many.
 
-
-### About this page
-#### This website is designed to provide tips about how to play certain games on *Wii* Sports and suggest strategies to help players win!
-
 # Baseball
 
 ![Wii Sports Baseball](https://live.staticflickr.com/4008/4663462470_cbedb907ec_b.jpg)
@@ -22,5 +18,8 @@
 - On offense: 
   - *Wii* Sports is liked for being similar to real life, and your approach should be mainly the same here as it is for real baseball! Keep your eye on the ball and protect the plate!
 
+
+### About this page
+#### This website is designed to provide tips about how to play certain games on *Wii* Sports and suggest strategies to help players win! 
 
 
