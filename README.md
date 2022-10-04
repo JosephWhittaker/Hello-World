@@ -3,7 +3,7 @@
 
 ![Wii Sports Logo](https://upload.wikimedia.org/wikipedia/commons/9/9c/Wii_Sports_logo.svg) 
 
-#### *Wii* Sports is a world-famous video game created by Nintendo that has gained immense popularity and fame in the United States and worldwide. Topping the charts at the fourth bestselling video game of all time with nearly 83 million copies sold according to Wikipedia, it is a game that has become a household name and has shaped the childhoods of many.
+#### *Wii* Sports is a world-famous video game created by Nintendo that has gained immense popularity and fame in the United States and worldwide. Topping the charts at the fourth bestselling video game of all time with nearly 83 million copies sold according to [wikipedia](https://en.wikipedia.org/wiki/List_of_best-selling_video_games#cite_note-nintendowii-14), it is a game that has become a household name and has shaped the childhoods of many.
 
 
 ### About this page
