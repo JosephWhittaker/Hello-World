@@ -1,6 +1,3 @@
-
-# Wii Sports: Tips and Strategies
-
 ![Wii Sports Logo](https://upload.wikimedia.org/wikipedia/commons/9/9c/Wii_Sports_logo.svg) 
 
 #### *Wii* Sports is a world-famous video game created by Nintendo that has gained immense popularity and fame in the United States and worldwide. Topping the charts at the fourth bestselling video game of all time with nearly 83 million copies sold according to [Wikipedia](https://en.wikipedia.org/wiki/List_of_best-selling_video_games#cite_note-nintendowii-14), it is a game that has become a household name and has shaped the childhoods of many.
@@ -18,6 +15,16 @@
 - On offense: 
   - *Wii* Sports is liked for being similar to real life, and your approach should be mainly the same here as it is for real baseball! Keep your eye on the ball and protect the plate!
 
+# Bowling
+
+![Bowling](https://i.ytimg.com/vi/cYInijti4AA/maxresdefault.jpg)
+##### Wii Sports Bowling
+
+#### Bowling is one of the more complex games on *Wii* Sports, but once you master it, it is one of the most fun. 
+- Here are the tips for one strategy to get strikes:
+  - Line up your ball to the far right of the lane, and swing the *Wii* remote forward. 
+  - When you release the bowling ball, turn the face of the *Wii* remote to the left. This will effectively curve the bowling ball, giving it spin. 
+  - This should come into contact with the middle pin, and knock down most of them with the spin!
 
 ### About this page
 #### This website is designed to provide tips about how to play certain games on *Wii* Sports and suggest strategies to help players win! 
